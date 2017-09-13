@@ -9,7 +9,8 @@
 
 export default {
     name: 'app',
-    page: 1
+    page: 1,
+    age: 11
 };
 </script>
 
